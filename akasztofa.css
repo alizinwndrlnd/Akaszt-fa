@@ -1,0 +1,39 @@
+h1 {
+    text-align: center;
+    font-style: italic;
+    margin-bottom: 5rem;
+}
+
+#betukSora {
+    height: 45rem;
+    display: flex;
+    align-content: flex-end;
+}
+#btn {  
+    width: 4rem;
+    height: 4rem;
+    margin: .7rem;
+    font-size: 2rem;
+    background-color: black;
+    border: none;
+    
+}
+
+#btn:hover, #btnJatek:hover{
+    background-color: yellowgreen;
+}
+
+#btnJatek, #btnJatekujrakezdes{
+    width: 15rem;
+    height: 4rem;
+    font-size: 1.5rem;
+    background-color: black;
+    border: none;
+    
+} 
+#kitalalando {
+    background-color: pink;
+    margin-top: 2rem;
+    font-size: 2rem;
+    text-align: center;
+}
