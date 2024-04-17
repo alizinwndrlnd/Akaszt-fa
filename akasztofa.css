@@ -37,3 +37,30 @@ h1 {
     font-size: 2rem;
     text-align: center;
 }
+
+#felhasznaltBetuk{
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.betuBox {
+    display: flex;
+    width: 2rem;
+    font-size: 2rem;
+    justify-content: center;
+    margin: 0.5rem;
+}
+
+#szoSora{
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+}
+#hasznaltBetukSora {
+    margin-top: 3rem;
+    
+}
+#karakterInBox {
+    margin-bottom: 0;
+}
